@@ -1,5 +1,5 @@
 # Noun-Project
-Noun Project Website
+Noun Project Website - Next JS React JS
 
 <h3>Firt step</h3>
 <code>npm i</code>
